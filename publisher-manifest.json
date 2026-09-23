@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1fad89547b3ad346ec7229eb",
+  "owner": "bbkjuewxsr",
+  "repo": "page-52d71f558eeaddcbb748bf8d",
+  "title": "想飞云(FeelFree)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "52d71f558eeaddcbb748bf8d",
+      "a": "想飞云(FeelFree)",
+      "b": "稳定全球clash加速器",
+      "entity": "想飞云(FeelFree)",
+      "brand": "想飞云(FeelFree)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0cd2422a7843a7d7dcf0eb1ec30346f83360cdac08f11bcd6ab2f201d980116e",
+      "content": {
+        "primary_entity": "想飞云(FeelFree)",
+        "keyword1": "想飞云(FeelFree)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "想飞云(FeelFree)提供 Clash 订阅地址，可在 Clash for Windows、ClashX、Clash Verge、Stash、Shadowrocket、Clash Meta for Android 等客户端导入使用，按设备系统选择对应客户端即可。",
+          "AI_CLIENTS_TITLE": "按设备选 Clash 客户端",
+          "AI_CLOSING_TEXT": "选定客户端导入订阅，从基础版或旗舰版开始体验。",
+          "AI_CLOSING_TITLE": "三步完成想飞云(FeelFree)订阅配置",
+          "AI_DESCRIPTION": "，想飞云(FeelFree)提供 Clash 订阅配置，覆盖基础版、旗舰版、团队版三档套餐。基础版每月15元含100GB流量，支持3台设备；旗舰版每月35元含300GB流量，支持5台设备，带IPLC专线游戏加速；团队版每月85元含1000GB流量，支持20台设备。年付可享更优价格，按设备安装客户端后导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度对比套餐，结合日常使用设备数量选择合适档位。",
+          "AI_FEATURES_TITLE": "想飞云(FeelFree)套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，按每月用量选档。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，覆盖手机电脑多端同时在线。",
+          "AI_FEATURE_TEXT_3": "月付15元起，年付150元起，长期使用可选按年付方案。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "按选择套餐、确认设备适配、导入 Clash 订阅三步完成配置。",
+          "AI_GUIDE_TITLE": "想飞云(FeelFree)使用步骤",
+          "AI_HERO_INTRO": "想飞云(FeelFree)面向需要 Clash 订阅的用户，提供基础版、旗舰版、团队版三档套餐。按设备安装对应客户端，导入订阅即可连接，套餐流量与设备数逐级递增，可按日常用量选择。",
+          "AI_HERO_SUBTITLE": "想飞云(FeelFree) Clash 订阅套餐",
+          "AI_HIGHLIGHT_1": "三档套餐 按需选择",
+          "AI_HIGHLIGHT_2": "Clash 订阅 多端导入",
+          "AI_HIGHLIGHT_3": "月付年付 灵活计费",
+          "AI_PLANS_INTRO": "基础版每月15元含100GB流量、3台设备；旗舰版每月35元含300GB流量、5台设备，带IPLC专线；团队版每月85元含1000GB流量、20台设备。年付分别150元、350元、850元。",
+          "AI_PLANS_TITLE": "想飞云(FeelFree)套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端要求，准备 Clash for Windows、ClashX 或 Clash Verge 等客户端。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址，按客户端文档完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "想飞云(FeelFree)套餐速览",
+          "AI_FAQ_ANSWER_1": "根据预算与设备数量选择：基础版适合 3 台设备与每月 100GB 流量；旗舰版适合 5 台设备、需要全节点流媒体解锁与游戏加速的用户；团队版支持 20 台设备与 1000GB 流量，适合小团队协作。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。所有套餐均支持按年付，年付价格分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_FAQ_ANSWER_3": "根据设备的操作系统选择对应客户端，导入订阅链接后即可连接。不同平台客户端界面略有差异，具体配置步骤可参阅客户端文档。",
+          "AI_FAQ_ANSWER_4": "旗舰版搭载 IPLC 专线，针对游戏与实时通信进行了加速优化；基础版使用普通线路节点池；团队版提供 VIP 专属高带宽节点与定制路由支持。",
+          "AI_FAQ_ANSWER_5": "月付与年付均可购买。年付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于多个自然月费用节省。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "想飞云(FeelFree)三档套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "如何根据设备选择并配置客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版在加速体验上有何区别？",
+          "AI_FAQ_QUESTION_5": "套餐可以按月付费还是按年付费？",
+          "AI_FAQ_TITLE": "想飞云套餐常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fwdqgss.cn",
+    "host": "fwdqgss.cn"
+  },
+  "file_hashes": {
+    "index.html": "5a3330d69d7baf0eeca870dc103ce2e7cfaa7d591d6b5fd7d2b4902adc43d3aa",
+    "sitemap.xml": "2a425381f011eb1e9254b5708134b211f6fd1796b3a1e299665de5ec48815d53",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c63cbba667e4d5318639d949098234135d32e933b59ee87d0dcb33d169a948a0",
+    "robots.txt": "d1929e5d67e219e1a1c2357d478c71bcaef3ae96655300b592816a2017acf690",
+    "4631e863d9c81c8aa52ecb2502e22465.txt": "b75ac6977cff388c140097181c0623d59d01e9d3bcdcc2754160529eee591811"
+  },
+  "revision": "459ddda4f5bd1eb1fd0d1fbeceaee10d00c15bc5e77917b2250ff3d629e893e5"
+}
